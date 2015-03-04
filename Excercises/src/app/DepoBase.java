@@ -1,10 +1,11 @@
 package app;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.Comparator;
 
 
-public abstract class DepoBase implements Comparable<DepoBase>{
+public abstract class DepoBase implements Comparable<DepoBase>, Serializable{
 
 	double sum;
 	double interestRate;
