@@ -1,0 +1,5 @@
+﻿Save Зберегти
+Remove Видалити
+Cancel Вiдмiнити
+Create Створити
+OK null
